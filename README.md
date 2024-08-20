@@ -1,3 +1,4 @@
-# This is for Xia's test project
-# Task1: src/forecase.py
-# Task2: src/weather.py
+This is for Xia's test project
+Task1的文件位置：tests/forecase.py
+Task2的文件位置: tests/weather.py
+ 
